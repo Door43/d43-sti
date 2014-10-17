@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sti:home|Door43 (sti)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sti|d43-sti repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sti/archive/master.zip|d43-sti.zip]]
+
+**Recent Changes**
+{{changes>ns = sti}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sti|Ethnologue data]]
+
